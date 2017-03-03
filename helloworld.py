@@ -1,1 +1,1 @@
-print("HelloWorld"*10);
+print("HelloWorld"*7);
